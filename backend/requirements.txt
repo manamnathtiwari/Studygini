@@ -1,0 +1,13 @@
+# Workspace version: 1.44.12
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+databutton==0.38.34
+python-multipart==0.0.9
+ipykernel==6.29.5
+openai
+pillow==10.2.0
+moviepy==1.0.3
+beautifulsoup4
+requests
+google-generativeai
+pymupdf
